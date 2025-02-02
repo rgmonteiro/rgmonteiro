@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 Statistics
+### 📊 Stats
 
 <p>
   <img 
